@@ -1,14 +1,12 @@
 # Risk Register
 
-| Risk ID | Asset                  | Threat                   | Vulnerability                       | Impact | Likelihood | Risk Score | Risk Level | Mitigation                                |
-| ------- | ---------------------- | ------------------------ | ----------------------------------- | ------ | ---------- | ---------- | ---------- | ----------------------------------------- |
-| R001    | IoT Gateway            | Unauthorized Access      | Weak Password Policy                | 4      | 4          | 16         | Critical   | Implement MFA and strong password policy  |
-| R002    | Smart Sensors          | Malware Infection        | Unpatched Firmware                  | 5      | 3          | 15         | High       | Establish firmware update process         |
-| R003    | Administrator Accounts | Credential Theft         | Lack of Multi-Factor Authentication | 5      | 4          | 20         | Critical   | Enforce MFA for privileged accounts       |
-| R004    | Network Infrastructure | Denial of Service Attack | Insufficient Traffic Filtering      | 4      | 3          | 12         | High       | Deploy network monitoring and filtering   |
-| R005    | Security Log Server    | Log Tampering            | Inadequate Log Protection           | 3      | 2          | 6          | Medium     | Restrict log access and enable monitoring |
-
----
+| Risk ID | Asset                  | Threat                   | Vulnerability                       | Impact | Likelihood | Risk Score | Risk Level | Risk Owner            | Treatment Strategy                                       | Residual Risk |
+| ------- | ---------------------- | ------------------------ | ----------------------------------- | ------ | ---------- | ---------- | ---------- | --------------------- | -------------------------------------------------------- | ------------- |
+| R001    | IoT Gateway            | Unauthorized Access      | Weak Password Policy                | 4      | 4          | 16         | Critical   | IT Manager            | Implement MFA and enforce strong password policy         | Medium        |
+| R002    | Smart Sensors          | Malware Infection        | Unpatched Firmware                  | 5      | 3          | 15         | High       | Operations Manager    | Establish firmware update and patch management process   | Medium        |
+| R003    | Administrator Accounts | Credential Theft         | Lack of Multi-Factor Authentication | 5      | 4          | 20         | Critical   | Security Manager      | Enforce MFA for privileged accounts                      | Low           |
+| R004    | Network Infrastructure | Denial of Service Attack | Insufficient Traffic Filtering      | 4      | 3          | 12         | High       | Network Administrator | Deploy network monitoring and traffic filtering controls | Medium        |
+| R005    | Security Log Server    | Log Tampering            | Inadequate Log Protection           | 3      | 2          | 6          | Medium     | Security Analyst      | Restrict log access and enable integrity monitoring      | Low           |
 
 ## Risk Scoring Method
 
@@ -20,8 +18,6 @@ Risk Score = Impact × Likelihood
 | 6–10        | Medium     |
 | 11–15       | High       |
 | 16–25       | Critical   |
-
----
 
 ## Purpose
 
