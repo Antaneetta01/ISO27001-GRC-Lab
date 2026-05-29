@@ -6,7 +6,7 @@
 | A.5.15 Access Control                                                         | Information Security Policy | Define access management requirements                       |
 | A.5.17 Authentication Information                                             | Password Policy             | Strengthen authentication security                          |
 | A.5.24 Information Security Incident Management Planning and Preparation      | Incident Response Plan      | Establish incident response processes                       |
-| A.5.7 Threat Intelligence                                                     | Risk Assessment Methodology | Support risk identification and evaluation                  |
+| A.5.25 Assessment and Decision on Information Security Events                 | Incident Response Plan      | Support incident evaluation and response activities         |
 | A.8.8 Management of Technical Vulnerabilities                                 | Risk Register               | Track vulnerabilities and mitigation activities             |
 | A.8.15 Logging                                                                | Security Log Server         | Maintain logging and monitoring capabilities                |
 | A.8.16 Monitoring Activities                                                  | Incident Response Plan      | Support security event detection and monitoring             |
