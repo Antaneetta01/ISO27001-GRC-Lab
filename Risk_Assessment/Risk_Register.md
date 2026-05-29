@@ -8,6 +8,18 @@
 | R004    | Network Infrastructure | Denial of Service Attack | Insufficient Traffic Filtering      | 4      | 3          | 12         | High       | Network Administrator | Deploy network monitoring and traffic filtering controls | Medium        |
 | R005    | Security Log Server    | Log Tampering            | Inadequate Log Protection           | 3      | 2          | 6          | Medium     | Security Analyst      | Restrict log access and enable integrity monitoring      | Low           |
 
+
+## Risk Register Fields
+
+Risk Owner:
+The individual responsible for managing and monitoring the risk.
+
+Treatment Strategy:
+The planned action used to reduce, transfer, avoid, or accept the risk.
+
+Residual Risk:
+The level of risk remaining after security controls have been implemented.
+
 ## Risk Scoring Method
 
 Risk Score = Impact × Likelihood
