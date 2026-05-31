@@ -97,7 +97,9 @@ ISO27001-GRC-Lab/
 
 The roadmap below illustrates the lifecycle and development stages of the ISO27001-GRC-Lab project.
 
-![ISO27001 GRC Project Roadmap](Diagrams/ISO27001_GRC_Roadmap.png)
+<a href="Diagrams/ISO27001_GRC_Roadmap.png">
+  <img src="Diagrams/ISO27001_GRC_Roadmap.png" width="800">
+</a>
 
 ---
 
