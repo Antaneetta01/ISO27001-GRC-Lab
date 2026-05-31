@@ -1,6 +1,6 @@
-# ISO27001-GRC-Lab
+# 🛡️ ISO27001-GRC-Lab
 
-## Project Overview
+## 📌 Project Overview
 
 This project is a Governance, Risk & Compliance (GRC) lab environment focused on applying cybersecurity governance concepts using ISO 27001:2022 and the NIST Cybersecurity Framework.
 
@@ -17,7 +17,7 @@ The project was developed to strengthen practical understanding of Governance, R
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 * Perform organizational risk assessments
 * Develop governance and security documentation
@@ -29,14 +29,14 @@ The project was developed to strengthen practical understanding of Governance, R
 
 ---
 
-## Frameworks Used
+## 📚 Frameworks Used
 
 * ISO 27001:2022
 * NIST Cybersecurity Framework (CSF)
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 ISO27001-GRC-Lab/
@@ -55,16 +55,16 @@ ISO27001-GRC-Lab/
 
 ---
 
-## Project Components
+## 🔍 Project Components
 
-### Asset Inventory
+### 🖥️ Asset Inventory
 
 * Asset Identification
 * Asset Ownership
 * Asset Classification
 * Criticality Assessment
 
-### Risk Assessment
+### ⚠️ Risk Assessment
 
 * Risk Assessment Methodology
 * Risk Register
@@ -73,12 +73,12 @@ ISO27001-GRC-Lab/
 * Risk Scoring
 * Risk Treatment
 
-### Governance Documentation
+### 📋 Governance Documentation
 
 * Information Security Policy
 * Password Policy
 
-### Incident Response
+### 🚨 Incident Response
 
 * Incident Response Plan
 * Incident Detection and Reporting
@@ -86,14 +86,14 @@ ISO27001-GRC-Lab/
 * Recovery
 * Lessons Learned
 
-### ISO 27001 Control Mapping
+### ✅ ISO 27001 Control Mapping
 
 * Mapping project documentation to ISO 27001:2022 controls
 * Governance and compliance alignment
 
 ---
 
-## Project Roadmap
+## 🗺️ Project Roadmap
 
 The roadmap below illustrates the lifecycle and development stages of the ISO27001-GRC-Lab project.
 
@@ -103,7 +103,7 @@ The roadmap below illustrates the lifecycle and development stages of the ISO270
 
 ---
 
-## Key Learning Outcomes
+## 🎓 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -118,7 +118,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
 * Smart IoT Architecture Diagram
 * Incident Response Workflow Diagram
@@ -127,7 +127,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Current Status
+## 📈 Current Status
 
 Completed:
 
@@ -147,15 +147,15 @@ In Progress:
 
 ---
 
-## Author
+## 👤 Author
 
 **Antaneetta Libina Mendez**
 
-Master's in Privacy,Information & Cybersecurity
+Master's in Privacy, Information & Cybersecurity
 
 University of Skövde, Sweden
 
-### Areas of Interest
+### 💡 Areas of Interest
 
 * Governance, Risk & Compliance (GRC)
 * ISO 27001 & Compliance
