@@ -103,6 +103,18 @@ The roadmap below illustrates the lifecycle and development stages of the ISO270
 
 ---
 
+---
+
+## ⚠️ Risk Treatment Example
+
+The diagram below demonstrates how risk treatment activities can reduce cybersecurity risk to an acceptable level through the implementation of recommended controls.
+
+<a href="Diagrams/Risk_Treatment_Example.png">
+  <img src="Diagrams/Risk_Treatment_Example.png" width="900">
+</a>
+
+---
+
 ## 🎓 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
