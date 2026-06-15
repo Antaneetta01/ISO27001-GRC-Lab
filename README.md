@@ -115,6 +115,18 @@ The diagram below demonstrates how risk treatment activities can reduce cybersec
 
 ---
 
+---
+
+## 🏗️ Smart IoT Architecture
+
+The diagram below illustrates the simulated smart IoT environment used within the ISO27001-GRC-Lab project. It demonstrates how IoT devices, gateways, edge processing, cloud services, data storage, monitoring, and governance controls interact to support a secure and scalable architecture.
+
+<a href="Diagrams/Smart_IoT_Architecture.png">
+  <img src="Diagrams/Smart_IoT_Architecture.png" width="900">
+</a>
+
+---
+
 ## 🎓 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
