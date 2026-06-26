@@ -127,6 +127,18 @@ The diagram below illustrates the simulated smart IoT environment used within th
 
 ---
 
+---
+
+## 🚨 Incident Response Workflow
+
+The diagram below illustrates the incident response lifecycle used within the ISO27001-GRC-Lab project. It outlines the structured process for identifying, containing, eradicating, recovering from, and learning from cybersecurity incidents while supporting ISO 27001 governance principles.
+
+<a href="Diagrams/Incident_Response_Workflow.png">
+  <img src="Diagrams/Incident_Response_Workflow.png" width="900">
+</a> 
+
+---
+
 ## 🎓 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
