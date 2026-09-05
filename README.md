@@ -73,6 +73,7 @@ ISO27001-GRC-Lab/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
 ---
 
@@ -308,9 +309,7 @@ The project was developed through the following stages:
 
 The diagram illustrates the simulated smart IoT environment and the security and governance controls supporting the architecture.
 
-<a href="Diagrams/Smart_IoT_Architecture.png">
-  <img src="Diagrams/Smart_IoT_Architecture.png" width="900">
-</a>
+![Smart IoT Security Architecture](Diagrams/Smart_IoT_Architecture.png)
 
 ---
 
@@ -320,9 +319,7 @@ The diagram illustrates the incident response lifecycle used within the simulate
 
 **Security Alert → Identification → Containment → Eradication → Recovery → Lessons Learned**
 
-<a href="Diagrams/Incident_Response_Workflow.png">
-  <img src="Diagrams/Incident_Response_Workflow.png" width="900">
-</a>
+![Incident Response Workflow](Diagrams/Incident_Response_Workflow.png)
 
 ---
 
@@ -330,9 +327,7 @@ The diagram illustrates the incident response lifecycle used within the simulate
 
 The diagram demonstrates how risk treatment activities can reduce cybersecurity risk through appropriate security controls.
 
-<a href="Diagrams/Risk_Treatment_Example.png">
-  <img src="Diagrams/Risk_Treatment_Example.png" width="900">
-</a>
+![Risk Treatment Example](Diagrams/Risk_Treatment_Example.png)
 
 ---
 
@@ -340,9 +335,7 @@ The diagram demonstrates how risk treatment activities can reduce cybersecurity 
 
 The roadmap illustrates the development stages of the ISO27001-GRC-Lab project.
 
-<a href="Diagrams/ISO27001_GRC_Roadmap.png">
-  <img src="Diagrams/ISO27001_GRC_Roadmap.png" width="900">
-</a>
+![ISO 27001 GRC Roadmap](Diagrams/ISO27001_GRC_Roadmap.png)
 
 ---
 
